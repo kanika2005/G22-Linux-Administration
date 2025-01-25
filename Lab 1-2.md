@@ -10,6 +10,6 @@ Create three subdirectories for organizing your files, and name thesubdirectorie
 
  Create six files with names of the form songX.mp3, snapX.jpg, filmX.avi
 
-![creating files](pic 3.png)
+![creating files](pic3.png)
 
-![Creating files](pic 4.png)
+![Creating files](pic4.png)
