@@ -1,6 +1,6 @@
 write shell scripts to print system information
 
-![man command](pic10.png)
+![man command](pic14.png)
 
 
 
