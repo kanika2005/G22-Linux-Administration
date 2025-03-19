@@ -13,3 +13,11 @@ Write shell script to perform basic mathematical calculation
 Use redirection operators to store the output of commands
 
 ![man command](pic12.png)
+
+
+
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/6f1d89a2-c2d1-4e59-aef8-00a1cdbb095d" />
+
+
+
+
