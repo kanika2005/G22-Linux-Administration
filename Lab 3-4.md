@@ -11,6 +11,7 @@ Use the man -k ext4 command to find the command to tune ext4 file-system paramet
 ![ext4 command](pic10.png)
 Brace expansion is used to generate discretionary strings of characters. Braces contain a comma-separated list of strings, or a sequence expression.
 
-!echo command](pic9.png)
+![Uploading image.png…]()
+
 
 ![echo command](pic8.png)
